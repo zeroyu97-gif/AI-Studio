@@ -4,10 +4,6 @@ Integration tests for application initialization.
 
 from __future__ import annotations
 
-from pathlib import Path
-
-import pytest
-
 from ai_studio import __version__
 from ai_studio.version import VERSION
 
